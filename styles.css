@@ -10,14 +10,18 @@ body {
 }
 
 header {
-    background: rgb(23, 23, 70);
+    background:rgb(9, 41, 41);
     padding: 1.8rem 0 8rem;
     text-align: center;
 
 }
 
 header h1 {
-    color: rgb(249, 253, 27);
-    font-weight: 500;
+    color: rgb(253, 249, 27);
+    font-weight: 450;
 }
 
+footer {
+    text-align: center;
+    color: rgb(9, 41, 41);
+}
