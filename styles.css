@@ -5,7 +5,19 @@
 }
 
 body {
-    background: #dadada;
-    font-family: Arial, Helvetica, sans-serif
+    background: rgb(204, 204, 204);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    background: rgb(9, 9, 83);
+    padding: 1.8rem 0 8rem;
+    text-align: center;
+
+}
+
+header h1 {
+    color: #fff;
+    font-weight: 500;
 }
 
